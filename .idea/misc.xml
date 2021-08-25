@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ExternalStorageConfigurationManager" enabled="true" />
+<<<<<<< HEAD
   <component name="ProjectRootManager" version="2" languageLevel="JDK_16" default="true" project-jdk-name="openjdk-16" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
+=======
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_5" default="true" project-jdk-name="Kotlin SDK" project-jdk-type="KotlinSDK">
+    <output url="file://$USER_HOME$/Downloads/kotlin-plugin-211-1.5.21-release-328-AS7442.40/Kotlin/kotlinc" />
+>>>>>>> 768afa2 (Initial commit)
   </component>
 </project>
